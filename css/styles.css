@@ -9,6 +9,10 @@
 }
 
 /* tag seclectors */
+body{
+   overflow-x: hidden;
+ }
+
 hr {
   border-bottom: none;
   width: 7%;
